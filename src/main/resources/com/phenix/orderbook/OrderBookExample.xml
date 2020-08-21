@@ -1,0 +1,18 @@
+<Quot>
+    <head type='hq' recordnum='1'/>
+    <body>
+        <record stkcode='000300.sh' stkname='000300' marketid='sh' source='IF' isstop='F' status='' preclose=''
+                lastprice='3000' openprice='' closeprice='0.0000' highestprice='0'
+                lowestprice='0' donevolume='0' turnover='0' upperlimitprice='0'
+                lowerlimitprice='0' askprice1='0' askvolume1='1' bidprice1='0' bidvolume1='1'
+                askprice2='0.0000' askvolume2='0' bidprice2='0.0000' bidvolume2='0' askprice3='0.0000' askvolume3='0'
+                bidprice3='0.0000' bidvolume3='0' askprice4='0.0000' askvolume4='0' bidprice4='0.0000' bidvolume4='0'
+                askprice5='0.0000' askvolume5='0' bidprice5='0.0000' bidvolume5='0' askprice6='' askvolume6='0'
+                bidprice6='0' bidvolume6='0' askprice7='0' askvolume7='0' bidprice7='0' bidvolume7='0' askprice8='0'
+                askvolume8='0' bidprice8='0' bidvolume8='0' askprice9='0' askvolume9='0' bidprice9='0' bidvolume9='0'
+                askprice10='0' askvolume10='0' bidprice10='0' bidvolume10='0' presettleprice='0'
+                openinterest='0' recvtime='135722397' sendtime='135722397' time='135721500'>
+            <Category>FTR</Category>
+        </record>
+    </body>
+</Quot>

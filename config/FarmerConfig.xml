@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <InstanceConfig>
+        <Environment>DEV</Environment>
+        <NumOfWorker>3</NumOfWorker>
+        <DataDate>-1</DataDate>
+        <!--SignalMode>PAPER_PerfectDashDownMaxS2RThresholdTEST</SignalMode-->
+        <SignalMode>BACK_TEST</SignalMode>
+        <CommissionRate>0.000027</CommissionRate>
+        <DailyShutDownTime>20:00:00000</DailyShutDownTime>
+        <EventBufferSize>4096 * 256</EventBufferSize>
+        <Universe>d:/work/model_prod/pattern_universe.csv</Universe>
+        <SignalSecurityMapping>d:/work/model_prod/signalSecurityMapping_farmer.csv</SignalSecurityMapping>
+        <Index2FutureMapping>d:/work/model_prod/index_2_future_mapping.csv</Index2FutureMapping>
+        <IndexComponentPath>f:/data/static/index/indexcomponentweight</IndexComponentPath>
+        <TradingDayPath>f:/data/static/tradingDay.csv</TradingDayPath>
+        <RunningMode>LOCAL</RunningMode>
+        <PersistPath>f:/farmer/signals_test/</PersistPath>
+    </InstanceConfig>
+    <FeatureConfig>
+        <FutureIndexSpread>f:/data/future_index_spread</FutureIndexSpread>
+        <KLine>f:/data/index_future</KLine>
+        <DailyFeature>f:/dailyFeature</DailyFeature>
+        <Universe>d:/work/model_prod/pattern_universe_batch.csv</Universe>
+    </FeatureConfig>
+    <AdminServer>
+        <HostName>172.16.22.50</HostName>
+        <Port>8888</Port>
+    </AdminServer>
+    <BackTestConfig>
+        <StartDate>20200101</StartDate>
+        <EndDate>20200131</EndDate>
+        <IndexName>000905.sh</IndexName>
+    </BackTestConfig>
+    <FarmerEngine>
+        <Signal>
+            <!--<FutureIndexSpreadSignal class="com.phenix.farmersignal.FutureIndexSpreadSignal"/>-->
+            <!--<KLineComputationSignal class="com.phenix.farmer.signal.KLineComputationSignal"/>
+            <OrderFlowComputatonSignal class="com.phenix.farmer.signal.orderflow.OrderFlowComputationSignal"/>
+            <OrderFlowMomentumSignal class="com.phenix.farmer.signal.orderflow.OrderFlowMomentumSignal"/>-->
+            <TransactionRateComputatonSignal class="com.phenix.farmer.signal.transactionrate.TransactionRateComputationSignal"/>
+            <TransactionRateMomentumSignal class="com.phenix.farmer.signal.transactionrate.TransactionRateMomentumSignal"/>
+            <DummySignal class="com.phenix.farmer.signal.DummySignal"/>
+        </Signal>
+
+        <!--below are configs shared by different signal-->
+        <SharedConfigs>
+            <FutureIndexSpreadSignalConfig name="FutureIndexSpreadSignalConfig" class="com.phenix.farmer.signal.FutureIndexSpreadSignalConfig">
+                <Config>
+                    <Criteria>
+                        <Security>
+                            <symbol>000300.sh|000905.sh|000016.sh|000852.sh</symbol>
+                            <type>INDEX</type>
+                        </Security>
+                    </Criteria>
+                    <Data enable='true' timeFrom='09:25:00000' timeTo='15:00:00000' rtFeatureTimeFrom='09:31:00000' orderBookDiscrepancyInSecs='10'/>
+                </Config>
+            </FutureIndexSpreadSignalConfig>
+            <KLineComputationSignalConfig name="KLineComputationSignalConfig" class="com.phenix.farmer.signal.KLineComputationSignalConfig">
+                <Config>
+                    <Criteria>
+                        <Security>
+                            <symbol>000300.sh|000905.sh|000016.sh|000852.sh</symbol>
+                            <type>INDEX</type>
+                        </Security>
+                    </Criteria>
+                    <Data enable='true' timeFrom='09:25:00000' timeTo='15:00:00000' rtFeatureTimeFrom='09:31:00000'/>
+                </Config>
+            </KLineComputationSignalConfig>
+            <OrderFlowMomentumSignalConfig name="OrderFlowMomentumSignalConfig" class="com.phenix.farmer.signal.orderflow.OrderFlowMomentumSignalConfig">
+                <Config>
+                    <Criteria>
+                        <Security>
+                            <symbol>000300.sh|000905.sh|000016.sh|000852.sh</symbol>
+                            <type>INDEX</type>
+                        </Security>
+                    </Criteria>
+                    <Data enable='true' timeFrom='09:25:00000' timeTo='15:00:00000' rtFeatureTimeFrom='09:31:00000' timeClosePosition='14:56:20000' timeStopOpenPosition='14:55:00000'
+                          pxChgCap2ClearPosition='0.095' orderPlacementTimeThresholdInSecs='6 * 60' maxNumberOfOrderPlacement='6' numberOfTicksHitFar='5'/>
+                </Config>
+                <Config>
+                    <Criteria>
+                        <Security>
+                            <symbol>.*.sz|.*.sh</symbol>
+                            <type>STOCK</type>
+                        </Security>
+                    </Criteria>
+                    <Data enable='true' timeFrom='09:25:00000' timeTo='15:00:00000' rtFeatureTimeFrom='09:31:00000' timeClosePosition='14:56:20000' timeStopOpenPosition='14:55:00000'
+                          pxChgCap2ClearPosition='0.095' orderPlacementTimeThresholdInSecs='6 * 60' maxNumberOfOrderPlacement='6' numberOfTicksHitFar='0'/>
+                </Config>
+            </OrderFlowMomentumSignalConfig>
+            <OrderFlowComputationSignalConfig name="OrderFlowComputationSignalConfig" class="com.phenix.farmer.signal.orderflow.OrderFlowComputationSignalConfig">
+                <Config>
+                    <Criteria>
+                        <Security>
+                            <symbol>000300.sh|000905.sh|000016.sh|000852.sh</symbol>
+                            <type>INDEX</type>
+                        </Security>
+                    </Criteria>
+                    <Data enable='true' timeFrom='09:25:00000' timeTo='15:00:00000' rtFeatureTimeFrom='09:31:00000'/>
+                </Config>
+                <Config>
+                    <Criteria>
+                        <Security>
+                            <symbol>.*.sz</symbol>
+                            <type>STOCK</type>
+                        </Security>
+                    </Criteria>
+                    <Data enable='true' timeFrom='09:25:00000' timeTo='15:00:00000' rtFeatureTimeFrom='09:31:00000'/>
+                </Config>
+            </OrderFlowComputationSignalConfig>
+            <TransactionRateMomentumSignalConfig name="TransactionRateMomentumSignalConfig" class="com.phenix.farmer.signal.transactionrate.TransactionRateMomentumSignalConfig">
+                <Config>
+                    <Criteria>
+                        <Security>
+                            <symbol>000300.sh|000905.sh|000016.sh|000852.sh</symbol>
+                            <type>INDEX</type>
+                        </Security>
+                    </Criteria>
+                    <Data enable='true' timeFrom='09:25:00000' timeTo='15:00:00000' rtFeatureTimeFrom='09:31:00000' timeClosePosition='14:56:20000' timeStopOpenPosition='14:55:00000'
+                          pxChgCap2ClearPosition='0.095' orderPlacementTimeThresholdInSecs='6 * 60' maxNumberOfOrderPlacement='6' numberOfTicksHitFar='5'/>
+                </Config>
+                <Config>
+                    <Criteria>
+                        <Security>
+                            <symbol>.*</symbol>
+                            <type>STOCK</type>
+                        </Security>
+                    </Criteria>
+                    <Data enable='true' timeFrom='09:25:00000' timeTo='15:00:00000' rtFeatureTimeFrom='09:31:00000' timeClosePosition='14:56:20000' timeStopOpenPosition='14:55:00000'
+                          pxChgCap2ClearPosition='0.095' orderPlacementTimeThresholdInSecs='6 * 60' maxNumberOfOrderPlacement='6' numberOfTicksHitFar='0'/>
+                </Config>
+            </TransactionRateMomentumSignalConfig>
+            <TransactionRateComputationSignalConfig name="TransactionRateComputationSignalConfig" class="com.phenix.farmer.signal.transactionrate.TransactionRateComputationSignalConfig">
+                <Config>
+                    <Criteria>
+                        <Security>
+                            <symbol>000300.sh|000905.sh|000016.sh|000852.sh</symbol>
+                            <type>INDEX</type>
+                        </Security>
+                    </Criteria>
+                    <Data enable='true' timeFrom='09:25:00000' timeTo='15:00:00000' rtFeatureTimeFrom='09:31:00000'/>
+                </Config>
+                <Config>
+                    <Criteria>
+                        <Security>
+                            <symbol>.*</symbol>
+                            <type>STOCK</type>
+                        </Security>
+                    </Criteria>
+                    <Data enable='true' timeFrom='09:25:00000' timeTo='15:00:00000' rtFeatureTimeFrom='09:31:00000'/>
+                </Config>
+            </TransactionRateComputationSignalConfig>
+        </SharedConfigs>
+    </FarmerEngine>
+
+    <DBConfig>
+        <DBConnection name="JYDB">
+            <server>172.16.200.70:1433</server>
+            <database>JYDB</database>
+            <user>test</user>
+            <password>test123</password>
+            <driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+        </DBConnection>
+        <DBConnection name="DataService">
+            <server>10.101.220.123</server>
+            <database>DataService</database>
+            <user>test</user>
+            <password>test123</password>
+            <driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+        </DBConnection>
+        <DBConnection name="Wande">
+            <server>10.101.221.183</server>
+            <database>wande</database>
+            <user>wande</user>
+            <password>wande</password>
+            <driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+        </DBConnection>
+    </DBConfig>
+    <AMQConfig>
+        <AMQConnection name="Alpha">
+            <Criteria msgPrefix="ENG.ALERT,ENG.ORDER,quotahq,ENG.ORDERBOOK.INDEX"></Criteria>
+            <topic>ENG.ALERT,ENG.ORDER,quotahq</topic>
+            <server>172.16.22.50</server>
+            <port>9999</port>
+            <protocal>tcp</protocal>
+            <defaultParams>jms.useAsyncSend=true&amp;jms.dispatchAsync=true&amp;jms.optimizeAcknowledge=true&amp;jms.prefetchPolicy.all=2</defaultParams>
+            <user>admin</user>
+            <password>test123</password>
+            <reconnectDelay>60000</reconnectDelay>
+            <maxReconnectAttempt>5</maxReconnectAttempt>
+            <connectionPerFactory>5</connectionPerFactory>
+            <sessionPerConnection>1000</sessionPerConnection>
+            <failover>true</failover>
+        </AMQConnection>
+    <AMQConnection name="AlphaMQ">
+            <Criteria msgPrefix="ALPHA.SIGNAL"></Criteria>
+            <topic>ENG.ALERT,ENG.ORDER,quotahq</topic>
+            <server>219.143.244.232</server>
+            <port>61620</port>
+            <protocal>tcp</protocal>
+            <defaultParams>jms.useAsyncSend=true&amp;jms.dispatchAsync=true&amp;jms.optimizeAcknowledge=true&amp;jms.prefetchPolicy.all=2</defaultParams>
+            <user>admin</user>
+            <password>test123</password>
+            <reconnectDelay>60000</reconnectDelay>
+            <maxReconnectAttempt>5</maxReconnectAttempt>
+            <connectionPerFactory>5</connectionPerFactory>
+            <sessionPerConnection>1000</sessionPerConnection>
+            <failover>true</failover>
+        </AMQConnection>
+    </AMQConfig>
+    <TDFConfig>
+        <ip>172.10.10.13</ip>
+        <port>5000</port>
+        <username>test</username>
+        <password>test123</password>
+        <market>SH-2-0;SZ-2-0;CF-1-0</market>
+        <time>0</time>
+    </TDFConfig>
+    <PositionBalanceConfig>
+        <InitialCash>3_000_000</InitialCash>
+    </PositionBalanceConfig>
+    <Accounts>
+        <Account>
+            <id>00001234</id>
+            <Cash>10000000</Cash>
+        </Account>
+    </Accounts>
+</Configuration>

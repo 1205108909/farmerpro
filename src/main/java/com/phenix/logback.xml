@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<appender name="RollingLogFileAppender"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>d:/logs/farmer/farmer.log</file>
+		<append>true</append>
+
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>farmer.log-%d{yyyy-MM-dd}.%i.txt</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy
+				class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+				<maxFileSize>100MB</maxFileSize>
+			</timeBasedFileNamingAndTriggeringPolicy>
+		</rollingPolicy>
+
+		<encoder>
+			<pattern>%date [%thread] %-5p %c | %msg%n</pattern>
+		</encoder>
+	</appender>
+	
+	<appender name="OrderBookRollingLogFileAppender"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>d:/logs/farmer/orderbook.log</file>
+		<append>true</append>
+
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>farmer.log-%d{yyyy-MM-dd}.%i.txt</fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy
+				class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+				<maxFileSize>100MB</maxFileSize>
+			</timeBasedFileNamingAndTriggeringPolicy>
+		</rollingPolicy>
+
+		<encoder>
+			<pattern>%date [%thread] %-5p %c | %msg%n</pattern>
+		</encoder>
+	</appender>
+   
+	<root>
+		<level value="INFO" />
+		<appender-ref ref="RollingLogFileAppender" />
+	</root>
+	
+	<logger name="orderbook.logging" additivity="false">
+    	<level value="DEBUG" />
+    	<appender-ref ref="OrderBookRollingLogFileAppender" />
+  	</logger>
+</configuration>
+  

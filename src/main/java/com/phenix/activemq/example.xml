@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H00168" iopvvalue="0.0000" marketid="sh"
+				stkname="青岛啤酒股份" isstop="F" preclose="57.750" lastprice="57.850"
+				openprice="57.600" closeprice="57.850" highestprice="58.150"
+				lowestprice="57.150" donevolume="218000" turnover="12578700"
+				bidprice1="57.750" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="57.850" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H01088" iopvvalue="0.0000" marketid="sh"
+				stkname="中国神华" isstop="F" preclose="22.000" lastprice="21.850"
+				openprice="21.850" closeprice="21.850" highestprice="22.150"
+				lowestprice="21.750" donevolume="3305770" turnover="72399501"
+				bidprice1="21.850" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="21.900" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H06818" iopvvalue="0.0000" marketid="sh"
+				stkname="中国光大银行" isstop="F" preclose="3.100" lastprice="3.090"
+				openprice="3.100" closeprice="3.090" highestprice="3.130"
+				lowestprice="3.070" donevolume="4884000" turnover="15097650"
+				bidprice1="3.080" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="3.090" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="900933" iopvvalue="0.0000" marketid="sh"
+				stkname="华新Ｂ股" isstop="F" preclose="1.495" lastprice="1.500"
+				openprice="1.500" closeprice="1.500" highestprice="1.511"
+				lowestprice="1.494" donevolume="215452" turnover="323836" bidprice1="1.498"
+				bidprice2="1.495" bidprice3="1.494" bidprice4="1.493" bidprice5="1.492"
+				askprice1="1.504" askprice2="1.505" askprice3="1.506" askprice4="1.507"
+				askprice5="1.508" bidvolume1="1269" bidvolume2="3300" bidvolume3="23300"
+				bidvolume4="8000" bidvolume5="4600" askvolume1="12179" askvolume2="16721"
+				askvolume3="32900" askvolume4="30900" askvolume5="22280"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000037" marketid="sh" isstop="1" turnover="2140390.00"
+				donevolume="4321" preclose="0.0580" lastprice="0.0570" openprice="0.0540"
+				closeprice="0.0000" highestprice="0.0670" lowestprice="0.0010"
+				bidprice1="0.0570" bidprice2="0.0010" bidprice3="" bidprice4=""
+				bidprice5="" bidvolume1="3" bidvolume2="12" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askprice1="0.0590" askprice2="0.0610"
+				askprice3="0.0670" askprice4="0.0680" askprice5="0.0690" askvolume1="1"
+				askvolume2="5" askvolume3="72" askvolume4="105" askvolume5="105"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1500"
+				callorput="P" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="130805.00"
+				donevolume="79" preclose="0.1600" lastprice="0.1635" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="47" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="30"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000039" marketid="sh" isstop="1" turnover="4515255.00"
+				donevolume="5329" preclose="0.0920" lastprice="0.0900" openprice="0.0860"
+				closeprice="0.0000" highestprice="0.1000" lowestprice="0.0460"
+				bidprice1="0.0900" bidprice2="0.0860" bidprice3="0.0461" bidprice4="0.0460"
+				bidprice5="" bidvolume1="1" bidvolume2="5" bidvolume3="1"
+				bidvolume4="1" bidvolume5="0" askprice1="0.0940" askprice2="0.0950"
+				askprice3="0.1000" askprice4="0.1010" askprice5="0.1020" askvolume1="1"
+				askvolume2="18" askvolume3="38" askvolume4="60" askvolume5="60"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1600"
+				callorput="P" targetcode="510050" strik="1.600" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01600" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000072" marketid="sh" isstop="1" turnover="63760.00"
+				donevolume="82" preclose="0.0820" lastprice="0.0790" openprice="0.0820"
+				closeprice="0.0000" highestprice="0.0830" lowestprice="0.0760"
+				bidprice1="0.0780" bidprice2="0.0760" bidprice3="0.0740" bidprice4="0.0730"
+				bidprice5="0.0720" bidvolume1="33" bidvolume2="5" bidvolume3="47"
+				bidvolume4="47" bidvolume5="47" askprice1="0.0790" askprice2="0.0810"
+				askprice3="0.0820" askprice4="0.0830" askprice5="0.0840" askvolume1="15"
+				askvolume2="47" askvolume3="52" askvolume4="47" askvolume5="5"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购6月1950"
+				callorput="C" targetcode="510180" strik="1.950" multiplierunit="10000"
+				status="0.0001" contractid="510180C1406M01950" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000087" marketid="sh" isstop="1" turnover="82300.00"
+				donevolume="57" preclose="0.1430" lastprice="0.1420" openprice="0.1530"
+				closeprice="0.0000" highestprice="0.1530" lowestprice="0.1410"
+				bidprice1="0.1390" bidprice2="0.1370" bidprice3="0.1360" bidprice4="0.1350"
+				bidprice5="0.1280" bidvolume1="52" bidvolume2="52" bidvolume3="67"
+				bidvolume4="47" bidvolume5="5" askprice1="0.1440" askprice2="0.1450"
+				askprice3="0.1460" askprice4="0.1470" askprice5="0.1480" askvolume1="5"
+				askvolume2="47" askvolume3="62" askvolume4="52" askvolume5="5"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购6月1850"
+				callorput="C" targetcode="510180" strik="1.850" multiplierunit="10000"
+				status="0.0001" contractid="510180C1406M01850" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000095" marketid="sh" isstop="1" turnover="2985390.00"
+				donevolume="1768" preclose="0.1720" lastprice="0.1690" openprice="0.1810"
+				closeprice="0.0000" highestprice="0.1810" lowestprice="0.1650"
+				bidprice1="0.1680" bidprice2="0.1650" bidprice3="0.1640" bidprice4="0.1630"
+				bidprice5="0.1620" bidvolume1="45" bidvolume2="27" bidvolume3="45"
+				bidvolume4="45" bidvolume5="41" askprice1="0.1690" askprice2="0.1700"
+				askprice3="0.1720" askprice4="0.1730" askprice5="0.1740" askvolume1="28"
+				askvolume2="36" askvolume3="18" askvolume4="36" askvolume5="45"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购6月1400"
+				callorput="C" targetcode="510050" strik="1.400" multiplierunit="10000"
+				status="0.0001" contractid="510050C1406M01400" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000116" marketid="sh" isstop="1" turnover="71080.00"
+				donevolume="92" preclose="0.0800" lastprice="0.0750" openprice="0.0800"
+				closeprice="0.0000" highestprice="0.0800" lowestprice="0.0750"
+				bidprice1="0.0750" bidprice2="0.0740" bidprice3="0.0730" bidprice4="0.0720"
+				bidprice5="0.0680" bidvolume1="42" bidvolume2="94" bidvolume3="94"
+				bidvolume4="5" bidvolume5="5" askprice1="0.0780" askprice2="0.0800"
+				askprice3="0.0810" askprice4="0.0820" askprice5="0.0830" askvolume1="5"
+				askvolume2="20" askvolume3="5" askvolume4="47" askvolume5="47"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽9月1850"
+				callorput="P" targetcode="510180" strik="1.850" multiplierunit="10000"
+				status="0.0001" contractid="510180P1409M01850" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000117" marketid="sh" isstop="1" turnover="196220.00"
+				donevolume="201" preclose="0.0960" lastprice="0.0930" openprice="0.0950"
+				closeprice="0.0000" highestprice="0.1010" lowestprice="0.0930"
+				bidprice1="0.0930" bidprice2="0.0920" bidprice3="0.0910" bidprice4="0.0890"
+				bidprice5="0.0830" bidvolume1="37" bidvolume2="47" bidvolume3="94"
+				bidvolume4="5" bidvolume5="5" askprice1="0.0970" askprice2="0.0990"
+				askprice3="0.1000" askprice4="0.1010" askprice5="" askvolume1="5"
+				askvolume2="47" askvolume3="39" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽9月1900"
+				callorput="P" targetcode="510180" strik="1.900" multiplierunit="10000"
+				status="0.0001" contractid="510180P1409M01900" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000131" marketid="sh" isstop="1" turnover="38420.00"
+				donevolume="18" preclose="0.2210" lastprice="0.2130" openprice="0.2220"
+				closeprice="0.0000" highestprice="0.2220" lowestprice="0.2090"
+				bidprice1="0.2130" bidprice2="0.2120" bidprice3="0.2110" bidprice4="0.2010"
+				bidprice5="0.1950" bidvolume1="46" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="5" askprice1="0.2170" askprice2="0.2210"
+				askprice3="0.2220" askprice4="0.2230" askprice5="0.2340" askvolume1="5"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="6"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购9月1800"
+				callorput="C" targetcode="510180" strik="1.800" multiplierunit="10000"
+				status="0.0001" contractid="510180C1409M01800" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000132" marketid="sh" isstop="1" turnover="148890.00"
+				donevolume="222" preclose="0.0650" lastprice="0.0670" openprice="0.0630"
+				closeprice="0.0000" highestprice="0.0690" lowestprice="0.0630"
+				bidprice1="0.0660" bidprice2="0.0630" bidprice3="0.0620" bidprice4="0.0610"
+				bidprice5="0.0550" bidvolume1="5" bidvolume2="47" bidvolume3="47"
+				bidvolume4="94" bidvolume5="5" askprice1="0.0670" askprice2="0.0690"
+				askprice3="0.0700" askprice4="0.0710" askprice5="0.0720" askvolume1="2"
+				askvolume2="36" askvolume3="47" askvolume4="47" askvolume5="5"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽9月1800"
+				callorput="P" targetcode="510180" strik="1.800" multiplierunit="10000"
+				status="0.0001" contractid="510180P1409M01800" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000134" marketid="sh" isstop="1" turnover="188600.00"
+				donevolume="538" preclose="0.0340" lastprice="0.0350" openprice="0.0340"
+				closeprice="0.0000" highestprice="0.0360" lowestprice="0.0340"
+				bidprice1="0.0340" bidprice2="0.0330" bidprice3="0.0320" bidprice4="0.0310"
+				bidprice5="0.0300" bidvolume1="113" bidvolume2="45" bidvolume3="54"
+				bidvolume4="54" bidvolume5="54" askprice1="0.0350" askprice2="0.0360"
+				askprice3="0.0370" askprice4="0.0380" askprice5="0.0390" askvolume1="17"
+				askvolume2="64" askvolume3="54" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽9月1350"
+				callorput="P" targetcode="510050" strik="1.350" multiplierunit="10000"
+				status="0.0001" contractid="510050P1409M01350" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000135" marketid="sh" isstop="1" turnover="401480.00"
+				donevolume="701" preclose="0.0590" lastprice="0.0580" openprice="0.0580"
+				closeprice="0.0000" highestprice="0.0590" lowestprice="0.0560"
+				bidprice1="0.0580" bidprice2="0.0570" bidprice3="0.0560" bidprice4="0.0550"
+				bidprice5="0.0540" bidvolume1="27" bidvolume2="90" bidvolume3="5"
+				bidvolume4="66" bidvolume5="90" askprice1="0.0590" askprice2="0.0600"
+				askprice3="0.0610" askprice4="0.0620" askprice5="0.0630" askvolume1="72"
+				askvolume2="50" askvolume3="54" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购9月1650"
+				callorput="C" targetcode="510050" strik="1.650" multiplierunit="10000"
+				status="0.0001" contractid="510050C1409M01650" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000153" marketid="sh" isstop="1" turnover="380200.00"
+				donevolume="1192" preclose="0.0300" lastprice="0.0320" openprice="0.0290"
+				closeprice="0.0000" highestprice="0.0340" lowestprice="0.0290"
+				bidprice1="0.0310" bidprice2="0.0300" bidprice3="0.0290" bidprice4="0.0280"
+				bidprice5="0.0270" bidvolume1="27" bidvolume2="34" bidvolume3="42"
+				bidvolume4="54" bidvolume5="54" askprice1="0.0320" askprice2="0.0330"
+				askprice3="0.0340" askprice4="0.0350" askprice5="0.0360" askvolume1="81"
+				askvolume2="18" askvolume3="15" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽4月1500"
+				callorput="P" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050P1404M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000156" marketid="sh" isstop="1" turnover="206440.00"
+				donevolume="127" preclose="0.1610" lastprice="0.1580" openprice="0.1640"
+				closeprice="0.0000" highestprice="0.1700" lowestprice="0.1540"
+				bidprice1="0.1530" bidprice2="0.1520" bidprice3="0.1510" bidprice4="0.1500"
+				bidprice5="0.1490" bidvolume1="52" bidvolume2="10" bidvolume3="5"
+				bidvolume4="47" bidvolume5="52" askprice1="0.1580" askprice2="0.1590"
+				askprice3="0.1600" askprice4="0.1610" askprice5="0.1620" askvolume1="5"
+				askvolume2="52" askvolume3="52" askvolume4="47" askvolume5="67"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购4月1800"
+				callorput="C" targetcode="510180" strik="1.800" multiplierunit="10000"
+				status="0.0001" contractid="510180C1404M01800" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000177" marketid="sh" isstop="1" turnover="600980.00"
+				donevolume="234" preclose="0.2660" lastprice="0.2570" openprice="0.2680"
+				closeprice="0.0000" highestprice="0.2680" lowestprice="0.2500"
+				bidprice1="0.2540" bidprice2="0.2530" bidprice3="0.2520" bidprice4="0.2510"
+				bidprice5="0.2470" bidvolume1="56" bidvolume2="52" bidvolume3="52"
+				bidvolume4="5" bidvolume5="5" askprice1="0.2580" askprice2="0.2590"
+				askprice3="0.2600" askprice4="0.2640" askprice5="0.2650" askvolume1="19"
+				askvolume2="5" askvolume3="5" askvolume4="47" askvolume5="47"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购4月1700"
+				callorput="C" targetcode="510180" strik="1.700" multiplierunit="10000"
+				status="0.0001" contractid="510180C1404M01700" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000178" marketid="sh" isstop="1" turnover="1370.00"
+				donevolume="82" preclose="0.0020" lastprice="0.0010" openprice="0.0020"
+				closeprice="0.0000" highestprice="0.0030" lowestprice="0.0010"
+				bidprice1="0.0020" bidprice2="0.0010" bidprice3="" bidprice4=""
+				bidprice5="" bidvolume1="1" bidvolume2="119" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askprice1="0.0030" askprice2="0.0040"
+				askprice3="0.0050" askprice4="0.0060" askprice5="0.0260" askvolume1="47"
+				askvolume2="52" askvolume3="52" askvolume4="5" askvolume5="5"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽4月1700"
+				callorput="P" targetcode="510180" strik="1.700" multiplierunit="10000"
+				status="0.0001" contractid="510180P1404M01700" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000190" marketid="sh" isstop="1" turnover="20720.00"
+				donevolume="399" preclose="0.0050" lastprice="0.0060" openprice="0.0040"
+				closeprice="0.0000" highestprice="0.0060" lowestprice="0.0040"
+				bidprice1="0.0050" bidprice2="0.0040" bidprice3="0.0030" bidprice4="0.0020"
+				bidprice5="0.0010" bidvolume1="9" bidvolume2="85" bidvolume3="54"
+				bidvolume4="66" bidvolume5="48" askprice1="0.0060" askprice2="0.0070"
+				askprice3="0.0080" askprice4="0.0090" askprice5="0.0100" askvolume1="148"
+				askvolume2="54" askvolume3="54" askvolume4="54" askvolume5="56"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽5月1350"
+				callorput="P" targetcode="510050" strik="1.350" multiplierunit="10000"
+				status="0.0001" contractid="510050P1405M01350" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000195" marketid="sh" isstop="1" turnover="195290.00"
+				donevolume="113" preclose="0.1740" lastprice="0.1710" openprice="0.1790"
+				closeprice="0.0000" highestprice="0.1810" lowestprice="0.1690"
+				bidprice1="0.1690" bidprice2="0.1680" bidprice3="0.1670" bidprice4="0.1660"
+				bidprice5="0.1620" bidvolume1="25" bidvolume2="52" bidvolume3="52"
+				bidvolume4="47" bidvolume5="5" askprice1="0.1720" askprice2="0.1730"
+				askprice3="0.1740" askprice4="0.1760" askprice5="0.1770" askvolume1="5"
+				askvolume2="5" askvolume3="5" askvolume4="47" askvolume5="47"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购5月1800"
+				callorput="C" targetcode="510180" strik="1.800" multiplierunit="10000"
+				status="0.0001" contractid="510180C1405M01800" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000217" marketid="sh" isstop="1" turnover="4620.00"
+				donevolume="29" preclose="0.0140" lastprice="0.0140" openprice="0.0140"
+				closeprice="0.0000" highestprice="0.0180" lowestprice="0.0140"
+				bidprice1="0.0140" bidprice2="0.0120" bidprice3="0.0110" bidprice4="0.0100"
+				bidprice5="" bidvolume1="94" bidvolume2="47" bidvolume3="47"
+				bidvolume4="47" bidvolume5="0" askprice1="0.0170" askprice2="0.0180"
+				askprice3="0.0190" askprice4="0.0250" askprice5="" askvolume1="45"
+				askvolume2="54" askvolume3="87" askvolume4="6" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购5月2100"
+				callorput="C" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180C1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="88888888" marketid="sh" isstop="" turnover=""
+				donevolume="" preclose="" lastprice="" openprice="" closeprice=""
+				highestprice="" lowestprice="" bidprice1="" bidprice2="" bidprice3=""
+				bidprice4="" bidprice5="" bidvolume1="" bidvolume2="" bidvolume3=""
+				bidvolume4="" bidvolume5="" askprice1="" askprice2="" askprice3=""
+				askprice4="" askprice5="" askvolume1="" askvolume2="" askvolume3=""
+				askvolume4="" askvolume5="" presettleprice="" settleprice=""
+				openinterest=""
+				stkname="10000031,10000032,10000033,10000034,10000035,10000036,10000037,10000038,10000039,10000040,10000071,10000072,10000073,10000074,10000075,10000076,10000077,10000078,10000079,10000080,10000087,10000088,10000095,10000096,10000101,10000102,10000103,10000104,10000105,10000106,10000107,10000108,10000109,10000110,10000111,10000112,10000113,10000114,10000115,10000116,10000117,10000118,10000119,10000120,10000121,10000122,10000123,10000124,10000129,10000130,10000131,10000132,10000133,10000134,10000135,10000136,10000137,10000138,10000139,10000140,10000141,10000142,10000143,10000144,10000145,10000146,10000147,10000148,10000149,10000150,10000151,10000152,10000153,10000154,10000157,10000158,10000159,10000160,10000161,10000162,10000163,10000164,10000165,10000166,10000167,10000168,10000169,10000170,10000171,10000172,10000173,10000174,10000175,10000176,10000177,10000178,10000179,10000180,10000181,10000182,10000183,10000184,10000185,10000186,10000187,10000188,10000189,10000190,10000191,10000192,10000193,10000194,10000195,10000196,10000197,10000198,10000199,10000200,10000201,10000202,10000203,10000204,10000205,10000206,90000031,90000032,90000033,90000034,90000035,90000036,90000037,90000038,90000039,90000040,90000071,90000072,90000073,90000074,90000075,90000076,90000077,90000078,90000079,90000080,90000087,90000088,90000095,90000096,90000103,90000104,90000109,90000110,90000111,90000112,90000113,90000114,90000115,90000116,90000117,90000118,90000119,90000120,90000121,90000122,90000123,90000124,90000125,90000126,90000127,90000128,90000129,90000130,90000131,90000132,90000133,90000134,90000135,90000136,90000137,90000138,90000141,90000142,90000143,90000144,90000145,90000146,90000147,90000148,90000149,90000150,90000151,90000152,90000153,90000154,90000155,90000156,90000157,90000158,90000159,90000160,90000161,90000162,90000163,90000164,90000165,90000166,90000169,90000170,90000171,90000172,90000173,90000174,90000177,90000178,90000179,90000180,90000181,90000182,90000183,90000184,90000185,90000186,90000187,90000188,90000189,90000190,90000191,90000192,90000193,90000194,90000195,90000196,90000197,90000198,90000199,90000200,90000201,90000202,90000203,90000204,90000205,90000206,90000207,90000208,90000209,90000210,90000211,90000212,90000213,90000214,90000215,90000216,90000217,90000218"
+				callorput="" targetcode="" strik="" multiplierunit="" status=""
+				contractid="" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="130805.00"
+				donevolume="79" preclose="0.1600" lastprice="0.1635" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="47" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="30"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="134025.00"
+				donevolume="81" preclose="0.1600" lastprice="0.1610" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="45" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="30"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H01211" iopvvalue="0.0000" marketid="sh"
+				stkname="比亚迪股份" isstop="F" preclose="47.350" lastprice="46.800"
+				openprice="47.450" closeprice="46.800" highestprice="48.000"
+				lowestprice="46.800" donevolume="987398" turnover="46798992"
+				bidprice1="46.750" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="46.800" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="137245.00"
+				donevolume="83" preclose="0.1600" lastprice="0.1610" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="43" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="30"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="142075.00"
+				donevolume="86" preclose="0.1600" lastprice="0.1610" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="40" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="30"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="143685.00"
+				donevolume="87" preclose="0.1600" lastprice="0.1610" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="39" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="30"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990830" marketid="sh" stkname="500高贝" isstop="F"
+				turnover="8969100400" donevolume="9334716" preclose="3197.510"
+				lastprice="3206.849" openprice="3200.342" closeprice="3206.849"
+				highestprice="3214.632" lowestprice="3196.593" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990831" marketid="sh" stkname="500低贝" isstop="F"
+				turnover="6326897200" donevolume="7921575" preclose="5614.333"
+				lastprice="5601.741" openprice="5620.355" closeprice="5601.741"
+				highestprice="5625.639" lowestprice="5590.395" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990846" marketid="sh" stkname="ESG 100"
+				isstop="F" turnover="12476503000" donevolume="15102025" preclose="615.680"
+				lastprice="615.399" openprice="616.795" closeprice="615.399"
+				highestprice="617.745" lowestprice="613.510" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000037" marketid="sh" isstop="1" turnover="2141530.00"
+				donevolume="4323" preclose="0.0580" lastprice="0.0570" openprice="0.0540"
+				closeprice="0.0000" highestprice="0.0670" lowestprice="0.0010"
+				bidprice1="0.0570" bidprice2="0.0010" bidprice3="" bidprice4=""
+				bidprice5="" bidvolume1="1" bidvolume2="12" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askprice1="0.0590" askprice2="0.0610"
+				askprice3="0.0670" askprice4="0.0680" askprice5="0.0690" askvolume1="1"
+				askvolume2="5" askvolume3="72" askvolume4="105" askvolume5="105"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1500"
+				callorput="P" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="148515.00"
+				donevolume="90" preclose="0.1600" lastprice="0.1610" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="36" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="30"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H01055" iopvvalue="0.0000" marketid="sh"
+				stkname="中国南方航空股" isstop="F" preclose="2.430" lastprice="2.430"
+				openprice="2.470" closeprice="2.430" highestprice="2.470"
+				lowestprice="2.420" donevolume="2798318" turnover="6803200"
+				bidprice1="2.430" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="2.440" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H01288" iopvvalue="0.0000" marketid="sh"
+				stkname="农业银行" isstop="F" preclose="3.310" lastprice="3.320"
+				openprice="3.340" closeprice="3.320" highestprice="3.350"
+				lowestprice="3.300" donevolume="55539727" turnover="184631743"
+				bidprice1="3.310" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="3.320" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H02607" iopvvalue="0.0000" marketid="sh"
+				stkname="上海医药" isstop="F" preclose="15.540" lastprice="15.860"
+				openprice="15.880" closeprice="15.860" highestprice="15.920"
+				lowestprice="15.660" donevolume="838100" turnover="13279005"
+				bidprice1="15.840" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="15.860" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="150125.00"
+				donevolume="91" preclose="0.1600" lastprice="0.1610" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="35" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="30"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000037" marketid="sh" isstop="1" turnover="2142710.00"
+				donevolume="4325" preclose="0.0580" lastprice="0.0590" openprice="0.0540"
+				closeprice="0.0000" highestprice="0.0670" lowestprice="0.0010"
+				bidprice1="0.0550" bidprice2="0.0010" bidprice3="" bidprice4=""
+				bidprice5="" bidvolume1="5" bidvolume2="12" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askprice1="0.0590" askprice2="0.0670"
+				askprice3="0.0680" askprice4="0.0690" askprice5="0.0700" askvolume1="4"
+				askvolume2="72" askvolume3="105" askvolume4="105" askvolume5="96"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1500"
+				callorput="P" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000039" marketid="sh" isstop="1" turnover="4515255.00"
+				donevolume="5329" preclose="0.0920" lastprice="0.0900" openprice="0.0860"
+				closeprice="0.0000" highestprice="0.1000" lowestprice="0.0460"
+				bidprice1="0.0900" bidprice2="0.0860" bidprice3="0.0461" bidprice4="0.0460"
+				bidprice5="" bidvolume1="1" bidvolume2="5" bidvolume3="1"
+				bidvolume4="1" bidvolume5="0" askprice1="0.0940" askprice2="0.0950"
+				askprice3="0.1000" askprice4="0.1010" askprice5="0.1020" askvolume1="1"
+				askvolume2="18" askvolume3="38" askvolume4="60" askvolume5="60"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1600"
+				callorput="P" targetcode="510050" strik="1.600" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01600" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000036" marketid="sh" isstop="1" turnover="305060.00"
+				donevolume="598" preclose="0.0500" lastprice="0.0510" openprice="0.0470"
+				closeprice="0.0000" highestprice="0.0570" lowestprice="0.0450"
+				bidprice1="0.0500" bidprice2="0.0450" bidprice3="0.0440" bidprice4="0.0430"
+				bidprice5="0.0420" bidvolume1="5" bidvolume2="57" bidvolume3="78"
+				bidvolume4="78" bidvolume5="78" askprice1="0.0510" askprice2="0.0520"
+				askprice3="0.0540" askprice4="0.0550" askprice5="0.0560" askvolume1="18"
+				askvolume2="4" askvolume3="8" askvolume4="36" askvolume5="60"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1450"
+				callorput="P" targetcode="510050" strik="1.450" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01450" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000088" marketid="sh" isstop="1" turnover="12950.00"
+				donevolume="31" preclose="0.0390" lastprice="0.0420" openprice="0.0410"
+				closeprice="0.0000" highestprice="0.0430" lowestprice="0.0400"
+				bidprice1="0.0420" bidprice2="0.0410" bidprice3="0.0400" bidprice4="0.0390"
+				bidprice5="0.0380" bidvolume1="2" bidvolume2="5" bidvolume3="5"
+				bidvolume4="47" bidvolume5="47" askprice1="0.0430" askprice2="0.0440"
+				askprice3="0.0450" askprice4="0.0460" askprice5="0.0470" askvolume1="39"
+				askvolume2="47" askvolume3="52" askvolume4="47" askvolume5="5"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽6月1850"
+				callorput="P" targetcode="510180" strik="1.850" multiplierunit="10000"
+				status="0.0001" contractid="510180P1406M01850" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000095" marketid="sh" isstop="1" turnover="2985390.00"
+				donevolume="1768" preclose="0.1720" lastprice="0.1690" openprice="0.1810"
+				closeprice="0.0000" highestprice="0.1810" lowestprice="0.1650"
+				bidprice1="0.1680" bidprice2="0.1650" bidprice3="0.1640" bidprice4="0.1630"
+				bidprice5="0.1620" bidvolume1="45" bidvolume2="27" bidvolume3="45"
+				bidvolume4="45" bidvolume5="41" askprice1="0.1690" askprice2="0.1700"
+				askprice3="0.1720" askprice4="0.1730" askprice5="0.1740" askvolume1="28"
+				askvolume2="36" askvolume3="18" askvolume4="36" askvolume5="45"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购6月1400"
+				callorput="C" targetcode="510050" strik="1.400" multiplierunit="10000"
+				status="0.0001" contractid="510050C1406M01400" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000114" marketid="sh" isstop="1" turnover="155480.00"
+				donevolume="158" preclose="0.0970" lastprice="0.0930" openprice="0.1010"
+				closeprice="0.0000" highestprice="0.1020" lowestprice="0.0930"
+				bidprice1="0.0930" bidprice2="0.0920" bidprice3="0.0910" bidprice4="0.0890"
+				bidprice5="0.0840" bidvolume1="43" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="5" askprice1="0.0970" askprice2="0.1000"
+				askprice3="0.1010" askprice4="0.1020" askprice5="0.1030" askvolume1="5"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="10"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购9月2000"
+				callorput="C" targetcode="510180" strik="2.000" multiplierunit="10000"
+				status="0.0001" contractid="510180C1409M02000" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000115" marketid="sh" isstop="1" turnover="75180.00"
+				donevolume="99" preclose="0.0760" lastprice="0.0720" openprice="0.0780"
+				closeprice="0.0000" highestprice="0.0790" lowestprice="0.0720"
+				bidprice1="0.0720" bidprice2="0.0710" bidprice3="0.0700" bidprice4="0.0690"
+				bidprice5="0.0650" bidvolume1="32" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="5" askprice1="0.0750" askprice2="0.0790"
+				askprice3="0.0800" askprice4="0.0810" askprice5="0.0830" askvolume1="5"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="47"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购9月2050"
+				callorput="C" targetcode="510180" strik="2.050" multiplierunit="10000"
+				status="0.0001" contractid="510180C1409M02050" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000134" marketid="sh" isstop="1" turnover="188600.00"
+				donevolume="538" preclose="0.0340" lastprice="0.0350" openprice="0.0340"
+				closeprice="0.0000" highestprice="0.0360" lowestprice="0.0340"
+				bidprice1="0.0340" bidprice2="0.0330" bidprice3="0.0320" bidprice4="0.0310"
+				bidprice5="0.0300" bidvolume1="113" bidvolume2="45" bidvolume3="54"
+				bidvolume4="54" bidvolume5="54" askprice1="0.0350" askprice2="0.0360"
+				askprice3="0.0370" askprice4="0.0380" askprice5="0.0390" askvolume1="17"
+				askvolume2="64" askvolume3="54" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽9月1350"
+				callorput="P" targetcode="510050" strik="1.350" multiplierunit="10000"
+				status="0.0001" contractid="510050P1409M01350" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000135" marketid="sh" isstop="1" turnover="401480.00"
+				donevolume="701" preclose="0.0590" lastprice="0.0580" openprice="0.0580"
+				closeprice="0.0000" highestprice="0.0590" lowestprice="0.0560"
+				bidprice1="0.0580" bidprice2="0.0570" bidprice3="0.0560" bidprice4="0.0550"
+				bidprice5="0.0540" bidvolume1="27" bidvolume2="90" bidvolume3="5"
+				bidvolume4="66" bidvolume5="90" askprice1="0.0590" askprice2="0.0600"
+				askprice3="0.0610" askprice4="0.0620" askprice5="0.0630" askvolume1="72"
+				askvolume2="50" askvolume3="54" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购9月1650"
+				callorput="C" targetcode="510050" strik="1.650" multiplierunit="10000"
+				status="0.0001" contractid="510050C1409M01650" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000162" marketid="sh" isstop="1" turnover="38240.00"
+				donevolume="1092" preclose="0.0050" lastprice="0.0020" openprice="0.0020"
+				closeprice="0.0000" highestprice="0.0050" lowestprice="0.0010"
+				bidprice1="0.0020" bidprice2="0.0010" bidprice3="" bidprice4=""
+				bidprice5="" bidvolume1="44" bidvolume2="106" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askprice1="0.0050" askprice2="0.0060"
+				askprice3="0.0070" askprice4="0.0080" askprice5="0.0260" askvolume1="47"
+				askvolume2="52" askvolume3="52" askvolume4="5" askvolume5="5"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽4月1850"
+				callorput="P" targetcode="510180" strik="1.850" multiplierunit="10000"
+				status="0.0001" contractid="510180P1404M01850" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000163" marketid="sh" isstop="1" turnover="13240.00"
+				donevolume="213" preclose="0.0060" lastprice="0.0050" openprice="0.0070"
+				closeprice="0.0000" highestprice="0.0090" lowestprice="0.0040"
+				bidprice1="0.0050" bidprice2="0.0040" bidprice3="0.0030" bidprice4="0.0020"
+				bidprice5="0.0010" bidvolume1="42" bidvolume2="52" bidvolume3="99"
+				bidvolume4="5" bidvolume5="5" askprice1="0.0090" askprice2="0.0100"
+				askprice3="0.0110" askprice4="0.0120" askprice5="0.0260" askvolume1="49"
+				askvolume2="52" askvolume3="52" askvolume4="5" askvolume5="5"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽4月1900"
+				callorput="P" targetcode="510180" strik="1.900" multiplierunit="10000"
+				status="0.0001" contractid="510180P1404M01900" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000183" marketid="sh" isstop="1" turnover="99870.00"
+				donevolume="720" preclose="0.0150" lastprice="0.0140" openprice="0.0150"
+				closeprice="0.0000" highestprice="0.0160" lowestprice="0.0130"
+				bidprice1="0.0140" bidprice2="0.0130" bidprice3="0.0120" bidprice4="0.0110"
+				bidprice5="0.0100" bidvolume1="24" bidvolume2="41" bidvolume3="45"
+				bidvolume4="45" bidvolume5="45" askprice1="0.0150" askprice2="0.0160"
+				askprice3="0.0170" askprice4="0.0180" askprice5="0.0190" askvolume1="116"
+				askvolume2="23" askvolume3="45" askvolume4="45" askvolume5="45"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购4月1600"
+				callorput="C" targetcode="510050" strik="1.600" multiplierunit="10000"
+				status="0.0001" contractid="510050C1404M01600" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000184" marketid="sh" isstop="1" turnover="586061.00"
+				donevolume="700" preclose="0.0800" lastprice="0.0840" openprice="0.0081"
+				closeprice="0.0000" highestprice="0.0880" lowestprice="0.0081"
+				bidprice1="0.0830" bidprice2="0.0800" bidprice3="0.0790" bidprice4="0.0780"
+				bidprice5="0.0770" bidvolume1="72" bidvolume2="35" bidvolume3="36"
+				bidvolume4="45" bidvolume5="54" askprice1="0.0840" askprice2="0.0850"
+				askprice3="0.0860" askprice4="0.0870" askprice5="0.0880" askvolume1="15"
+				askvolume2="36" askvolume3="53" askvolume4="60" askvolume5="72"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽4月1600"
+				callorput="P" targetcode="510050" strik="1.600" multiplierunit="10000"
+				status="0.0001" contractid="510050P1404M01600" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000188" marketid="sh" isstop="1" turnover="656080.00"
+				donevolume="829" preclose="0.0820" lastprice="0.0800" openprice="0.0800"
+				closeprice="0.0000" highestprice="0.0810" lowestprice="0.0770"
+				bidprice1="0.0800" bidprice2="0.0790" bidprice3="0.0780" bidprice4="0.0770"
+				bidprice5="0.0760" bidvolume1="29" bidvolume2="78" bidvolume3="24"
+				bidvolume4="48" bidvolume5="126" askprice1="0.0810" askprice2="0.0820"
+				askprice3="0.0830" askprice4="0.0840" askprice5="0.0850" askvolume1="18"
+				askvolume2="18" askvolume3="36" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购5月1500"
+				callorput="C" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050C1405M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000204" marketid="sh" isstop="1" turnover="16570.00"
+				donevolume="19" preclose="0.0910" lastprice="0.0900" openprice="0.0850"
+				closeprice="0.0000" highestprice="0.0900" lowestprice="0.0850"
+				bidprice1="0.0900" bidprice2="0.0890" bidprice3="0.0880" bidprice4="0.0870"
+				bidprice5="0.0860" bidvolume1="42" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="12" askprice1="0.0910" askprice2="0.0920"
+				askprice3="" askprice4="" askprice5="" askvolume1="12" askvolume2="5"
+				askvolume3="0" askvolume4="0" askvolume5="0" presettleprice=""
+				settleprice="" openinterest="" stkname="180ETF沽5月2000" callorput="P"
+				targetcode="510180" strik="2.000" multiplierunit="10000" status="0.0001"
+				contractid="510180P1405M02000" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000205" marketid="sh" isstop="1" turnover="78390.00"
+				donevolume="246" preclose="0.0330" lastprice="0.0320" openprice="0.0330"
+				closeprice="0.0000" highestprice="0.0340" lowestprice="0.0310"
+				bidprice1="0.0320" bidprice2="0.0310" bidprice3="0.0300" bidprice4="0.0290"
+				bidprice5="0.0280" bidvolume1="5" bidvolume2="23" bidvolume3="41"
+				bidvolume4="36" bidvolume5="36" askprice1="0.0330" askprice2="0.0340"
+				askprice3="0.0350" askprice4="0.0360" askprice5="0.0370" askvolume1="18"
+				askvolume2="31" askvolume3="41" askvolume4="36" askvolume5="36"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购5月1600"
+				callorput="C" targetcode="510050" strik="1.600" multiplierunit="10000"
+				status="0.0001" contractid="510050C1405M01600" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H01398" iopvvalue="0.0000" marketid="sh"
+				stkname="工商银行" isstop="F" preclose="4.790" lastprice="4.810"
+				openprice="4.830" closeprice="4.810" highestprice="4.830"
+				lowestprice="4.770" donevolume="67613906" turnover="324898928"
+				bidprice1="4.810" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="4.820" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="151805.00"
+				donevolume="92" preclose="0.1600" lastprice="0.1680" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="35" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="29"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000123" marketid="sh" isstop="1" turnover="1203900.00"
+				donevolume="1143" preclose="0.1080" lastprice="0.1090" openprice="0.1170"
+				closeprice="0.0000" highestprice="0.1170" lowestprice="0.1020"
+				bidprice1="0.1020" bidprice2="0.1010" bidprice3="0.1000" bidprice4="0.0990"
+				bidprice5="0.0980" bidvolume1="43" bidvolume2="59" bidvolume3="54"
+				bidvolume4="78" bidvolume5="60" askprice1="0.1090" askprice2="0.1100"
+				askprice3="0.1110" askprice4="0.1120" askprice5="0.1130" askvolume1="4"
+				askvolume2="50" askvolume3="54" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购9月1500"
+				callorput="C" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050C1409M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000123" marketid="sh" isstop="1" turnover="1204990.00"
+				donevolume="1144" preclose="0.1080" lastprice="0.1090" openprice="0.1170"
+				closeprice="0.0000" highestprice="0.1170" lowestprice="0.1020"
+				bidprice1="0.1020" bidprice2="0.1010" bidprice3="0.1000" bidprice4="0.0990"
+				bidprice5="0.0980" bidvolume1="43" bidvolume2="59" bidvolume3="54"
+				bidvolume4="78" bidvolume5="60" askprice1="0.1090" askprice2="0.1100"
+				askprice3="0.1110" askprice4="0.1120" askprice5="0.1130" askvolume1="3"
+				askvolume2="50" askvolume3="54" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购9月1500"
+				callorput="C" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050C1409M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="156845.00"
+				donevolume="95" preclose="0.1600" lastprice="0.1680" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="35" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="26"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990116" marketid="sh" stkname="信用100" isstop="F"
+				turnover="341844900" donevolume="3488" preclose="145.951" lastprice="146.148"
+				openprice="145.969" closeprice="146.148" highestprice="146.166"
+				lowestprice="145.969" bidprice1="0.000" bidprice2="0.000" bidprice3="0.000"
+				bidprice4="0.000" bidprice5="0.000" askprice1="0.000" askprice2="0.000"
+				askprice3="0.000" askprice4="0.000" askprice5="0.000" bidvolume1="0"
+				bidvolume2="0" bidvolume3="0" bidvolume4="0" bidvolume5="0"
+				askvolume1="0" askvolume2="0" askvolume3="0" askvolume4="0"
+				askvolume5="0" settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990150" marketid="sh" stkname="380红利" isstop="F"
+				turnover="907469400" donevolume="1612784" preclose="4610.184"
+				lastprice="4592.222" openprice="4615.807" closeprice="4592.222"
+				highestprice="4621.045" lowestprice="4582.631" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990822" marketid="sh" stkname="500红利" isstop="F"
+				turnover="2537434800" donevolume="2692424" preclose="5237.343"
+				lastprice="5241.779" openprice="5241.242" closeprice="5241.779"
+				highestprice="5252.371" lowestprice="5206.677" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990824" marketid="sh" stkname="国企红利" isstop="F"
+				turnover="4858066500" donevolume="7012804" preclose="871.743"
+				lastprice="870.334" openprice="873.497" closeprice="870.334"
+				highestprice="874.256" lowestprice="868.691" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990153" marketid="sh" stkname="上民红利" isstop="F"
+				turnover="1983824900" donevolume="1956995" preclose="1555.256"
+				lastprice="1556.746" openprice="1557.420" closeprice="1556.746"
+				highestprice="1560.123" lowestprice="1549.100" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="160205.00"
+				donevolume="97" preclose="0.1600" lastprice="0.1680" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="35" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="24"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000123" marketid="sh" isstop="1" turnover="1211560.00"
+				donevolume="1150" preclose="0.1080" lastprice="0.1100" openprice="0.1170"
+				closeprice="0.0000" highestprice="0.1170" lowestprice="0.1020"
+				bidprice1="0.1020" bidprice2="0.1010" bidprice3="0.1000" bidprice4="0.0990"
+				bidprice5="0.0980" bidvolume1="43" bidvolume2="59" bidvolume3="54"
+				bidvolume4="78" bidvolume5="60" askprice1="0.1100" askprice2="0.1110"
+				askprice3="0.1120" askprice4="0.1130" askprice5="0.1140" askvolume1="47"
+				askvolume2="54" askvolume3="54" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购9月1500"
+				callorput="C" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050C1409M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="163565.00"
+				donevolume="99" preclose="0.1600" lastprice="0.1680" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="35" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="22"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000037" marketid="sh" isstop="1" turnover="2146010.00"
+				donevolume="4331" preclose="0.0580" lastprice="0.0530" openprice="0.0540"
+				closeprice="0.0000" highestprice="0.0670" lowestprice="0.0010"
+				bidprice1="0.0530" bidprice2="0.0010" bidprice3="" bidprice4=""
+				bidprice5="" bidvolume1="3" bidvolume2="12" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askprice1="0.0570" askprice2="0.0670"
+				askprice3="0.0680" askprice4="0.0690" askprice5="0.0700" askvolume1="3"
+				askvolume2="72" askvolume3="105" askvolume4="105" askvolume5="96"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1500"
+				callorput="P" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="170285.00"
+				donevolume="103" preclose="0.1600" lastprice="0.1680" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="35" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="18"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000123" marketid="sh" isstop="1" turnover="1217060.00"
+				donevolume="1155" preclose="0.1080" lastprice="0.1100" openprice="0.1170"
+				closeprice="0.0000" highestprice="0.1170" lowestprice="0.1020"
+				bidprice1="0.1020" bidprice2="0.1010" bidprice3="0.1000" bidprice4="0.0990"
+				bidprice5="0.0980" bidvolume1="43" bidvolume2="59" bidvolume3="54"
+				bidvolume4="78" bidvolume5="60" askprice1="0.1100" askprice2="0.1110"
+				askprice3="0.1120" askprice4="0.1130" askprice5="0.1140" askvolume1="42"
+				askvolume2="54" askvolume3="54" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购9月1500"
+				callorput="C" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050C1409M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="173645.00"
+				donevolume="105" preclose="0.1600" lastprice="0.1680" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="35" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="16"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="178685.00"
+				donevolume="108" preclose="0.1600" lastprice="0.1680" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="35" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="13"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000123" marketid="sh" isstop="1" turnover="1221300.00"
+				donevolume="1159" preclose="0.1080" lastprice="0.1060" openprice="0.1170"
+				closeprice="0.0000" highestprice="0.1170" lowestprice="0.1020"
+				bidprice1="0.1060" bidprice2="0.1020" bidprice3="0.1010" bidprice4="0.1000"
+				bidprice5="0.0990" bidvolume1="1" bidvolume2="43" bidvolume3="54"
+				bidvolume4="54" bidvolume5="78" askprice1="0.1100" askprice2="0.1110"
+				askprice3="0.1120" askprice4="0.1130" askprice5="0.1140" askvolume1="42"
+				askvolume2="54" askvolume3="54" askvolume4="54" askvolume5="59"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购9月1500"
+				callorput="C" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050C1409M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000218" marketid="sh" isstop="1" turnover="183725.00"
+				donevolume="111" preclose="0.1600" lastprice="0.1680" openprice="0.1550"
+				closeprice="0.0000" highestprice="0.1680" lowestprice="0.1550"
+				bidprice1="0.1610" bidprice2="0.1600" bidprice3="0.1590" bidprice4="0.1500"
+				bidprice5="" bidvolume1="35" bidvolume2="47" bidvolume3="47"
+				bidvolume4="5" bidvolume5="0" askprice1="0.1680" askprice2="0.1690"
+				askprice3="0.1700" askprice4="0.1710" askprice5="" askvolume1="10"
+				askvolume2="47" askvolume3="47" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽5月2100"
+				callorput="P" targetcode="510180" strik="2.100" multiplierunit="10000"
+				status="0.0001" contractid="510180P1405M02100" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H00338" iopvvalue="0.0000" marketid="sh"
+				stkname="上海石油化工股" isstop="F" preclose="1.990" lastprice="1.970"
+				openprice="1.990" closeprice="1.970" highestprice="2.000"
+				lowestprice="1.970" donevolume="10566500" turnover="20921826"
+				bidprice1="1.970" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="1.980" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H02196" iopvvalue="0.0000" marketid="sh"
+				stkname="复星医药" isstop="F" preclose="24.650" lastprice="26.100"
+				openprice="24.850" closeprice="26.100" highestprice="26.200"
+				lowestprice="24.800" donevolume="1324095" turnover="33995768"
+				bidprice1="26.100" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="26.150" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990808" marketid="sh" stkname="医药生物" isstop="F"
+				turnover="5126231000" donevolume="3231384" preclose="6536.149"
+				lastprice="6528.745" openprice="6541.540" closeprice="6528.745"
+				highestprice="6565.840" lowestprice="6524.329" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990809" marketid="sh" stkname="细分农业" isstop="F"
+				turnover="2264367000" donevolume="2292327" preclose="4041.860"
+				lastprice="4033.447" openprice="4056.312" closeprice="4033.447"
+				highestprice="4062.476" lowestprice="4029.476" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990821" marketid="sh" stkname="300红利" isstop="F"
+				turnover="6646766000" donevolume="8695397" preclose="2750.583"
+				lastprice="2740.315" openprice="2755.711" closeprice="2740.315"
+				highestprice="2758.391" lowestprice="2736.012" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990822" marketid="sh" stkname="500红利" isstop="F"
+				turnover="2539106100" donevolume="2693925" preclose="5237.343"
+				lastprice="5242.025" openprice="5241.242" closeprice="5242.025"
+				highestprice="5252.371" lowestprice="5206.677" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="990846" marketid="sh" stkname="ESG 100"
+				isstop="F" turnover="12486950400" donevolume="15116529" preclose="615.680"
+				lastprice="615.292" openprice="616.795" closeprice="615.292"
+				highestprice="617.745" lowestprice="613.510" bidprice1="0.000"
+				bidprice2="0.000" bidprice3="0.000" bidprice4="0.000" bidprice5="0.000"
+				askprice1="0.000" askprice2="0.000" askprice3="0.000" askprice4="0.000"
+				askprice5="0.000" bidvolume1="0" bidvolume2="0" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askvolume1="0" askvolume2="0"
+				askvolume3="0" askvolume4="0" askvolume5="0" settleprice="0.00"
+				openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000037" marketid="sh" isstop="1" turnover="2147110.00"
+				donevolume="4333" preclose="0.0580" lastprice="0.0550" openprice="0.0540"
+				closeprice="0.0000" highestprice="0.0670" lowestprice="0.0010"
+				bidprice1="0.0510" bidprice2="0.0010" bidprice3="" bidprice4=""
+				bidprice5="" bidvolume1="5" bidvolume2="12" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askprice1="0.0550" askprice2="0.0670"
+				askprice3="0.0680" askprice4="0.0690" askprice5="0.0700" askvolume1="3"
+				askvolume2="72" askvolume3="105" askvolume4="105" askvolume5="96"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1500"
+				callorput="P" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H00177" iopvvalue="0.0000" marketid="sh"
+				stkname="江苏宁沪高速公" isstop="F" preclose="8.930" lastprice="8.900"
+				openprice="8.800" closeprice="8.900" highestprice="8.920"
+				lowestprice="8.800" donevolume="1004000" turnover="8901946"
+				bidprice1="8.880" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="8.900" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000039" marketid="sh" isstop="1" turnover="4515255.00"
+				donevolume="5329" preclose="0.0920" lastprice="0.0900" openprice="0.0860"
+				closeprice="0.0000" highestprice="0.1000" lowestprice="0.0460"
+				bidprice1="0.0900" bidprice2="0.0860" bidprice3="0.0461" bidprice4="0.0460"
+				bidprice5="" bidvolume1="1" bidvolume2="5" bidvolume3="1"
+				bidvolume4="1" bidvolume5="0" askprice1="0.0940" askprice2="0.0950"
+				askprice3="0.1000" askprice4="0.1010" askprice5="0.1020" askvolume1="1"
+				askvolume2="18" askvolume3="38" askvolume4="60" askvolume5="60"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1600"
+				callorput="P" targetcode="510050" strik="1.600" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01600" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000040" marketid="sh" isstop="1" turnover="1999150.00"
+				donevolume="1478" preclose="0.1320" lastprice="0.1350" openprice="0.1190"
+				closeprice="0.0000" highestprice="0.1400" lowestprice="0.1190"
+				bidprice1="0.1350" bidprice2="0.1340" bidprice3="0.1300" bidprice4="0.1290"
+				bidprice5="0.1280" bidvolume1="18" bidvolume2="18" bidvolume3="25"
+				bidvolume4="45" bidvolume5="45" askprice1="0.1360" askprice2="0.1390"
+				askprice3="0.1400" askprice4="0.1410" askprice5="0.1420" askvolume1="63"
+				askvolume2="20" askvolume3="30" askvolume4="45" askvolume5="36"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1650"
+				callorput="P" targetcode="510050" strik="1.650" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01650" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000077" marketid="sh" isstop="1" turnover="50480.00"
+				donevolume="66" preclose="0.0760" lastprice="0.0800" openprice="0.0720"
+				closeprice="0.0000" highestprice="0.0800" lowestprice="0.0720"
+				bidprice1="0.0770" bidprice2="0.0750" bidprice3="0.0740" bidprice4="0.0730"
+				bidprice5="0.0720" bidvolume1="15" bidvolume2="48" bidvolume3="86"
+				bidvolume4="47" bidvolume5="42" askprice1="0.0800" askprice2="0.0810"
+				askprice3="0.0820" askprice4="0.0830" askprice5="0.1000" askvolume1="45"
+				askvolume2="47" askvolume3="47" askvolume4="5" askvolume5="10"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽6月1950"
+				callorput="P" targetcode="510180" strik="1.950" multiplierunit="10000"
+				status="0.0001" contractid="510180P1406M01950" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000078" marketid="sh" isstop="1" turnover="118230.00"
+				donevolume="114" preclose="0.1050" lastprice="0.1060" openprice="0.1040"
+				closeprice="0.0000" highestprice="0.1070" lowestprice="0.1000"
+				bidprice1="0.1030" bidprice2="0.1020" bidprice3="0.1000" bidprice4="0.0990"
+				bidprice5="0.0980" bidvolume1="19" bidvolume2="5" bidvolume3="47"
+				bidvolume4="67" bidvolume5="47" askprice1="0.1060" askprice2="0.1070"
+				askprice3="0.1080" askprice4="0.1100" askprice5="" askvolume1="45"
+				askvolume2="48" askvolume3="47" askvolume4="5" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽6月2000"
+				callorput="P" targetcode="510180" strik="2.000" multiplierunit="10000"
+				status="0.0001" contractid="510180P1406M02000" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000095" marketid="sh" isstop="1" turnover="2985390.00"
+				donevolume="1768" preclose="0.1720" lastprice="0.1690" openprice="0.1810"
+				closeprice="0.0000" highestprice="0.1810" lowestprice="0.1650"
+				bidprice1="0.1680" bidprice2="0.1650" bidprice3="0.1640" bidprice4="0.1630"
+				bidprice5="0.1620" bidvolume1="45" bidvolume2="27" bidvolume3="45"
+				bidvolume4="45" bidvolume5="41" askprice1="0.1690" askprice2="0.1700"
+				askprice3="0.1720" askprice4="0.1730" askprice5="0.1740" askvolume1="28"
+				askvolume2="36" askvolume3="18" askvolume4="36" askvolume5="45"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购6月1400"
+				callorput="C" targetcode="510050" strik="1.400" multiplierunit="10000"
+				status="0.0001" contractid="510050C1406M01400" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000103" marketid="sh" isstop="1" turnover="256555.00"
+				donevolume="138" preclose="0.1870" lastprice="0.1810" openprice="0.1970"
+				closeprice="0.0000" highestprice="0.1970" lowestprice="0.1740"
+				bidprice1="0.1790" bidprice2="0.1780" bidprice3="0.1770" bidprice4="0.1760"
+				bidprice5="0.1640" bidvolume1="5" bidvolume2="47" bidvolume3="47"
+				bidvolume4="47" bidvolume5="5" askprice1="0.1860" askprice2="0.1870"
+				askprice3="0.1880" askprice4="0.1930" askprice5="0.1970" askvolume1="47"
+				askvolume2="47" askvolume3="47" askvolume4="5" askvolume5="94"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购6月1800"
+				callorput="C" targetcode="510180" strik="1.800" multiplierunit="10000"
+				status="0.0001" contractid="510180C1406M01800" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000117" marketid="sh" isstop="1" turnover="196220.00"
+				donevolume="201" preclose="0.0960" lastprice="0.0930" openprice="0.0950"
+				closeprice="0.0000" highestprice="0.1010" lowestprice="0.0930"
+				bidprice1="0.0930" bidprice2="0.0920" bidprice3="0.0910" bidprice4="0.0890"
+				bidprice5="0.0830" bidvolume1="37" bidvolume2="47" bidvolume3="94"
+				bidvolume4="5" bidvolume5="5" askprice1="0.0970" askprice2="0.0990"
+				askprice3="0.1000" askprice4="0.1010" askprice5="" askvolume1="5"
+				askvolume2="47" askvolume3="39" askvolume4="47" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽9月1900"
+				callorput="P" targetcode="510180" strik="1.900" multiplierunit="10000"
+				status="0.0001" contractid="510180P1409M01900" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000118" marketid="sh" isstop="1" turnover="45270.00"
+				donevolume="38" preclose="0.1190" lastprice="0.1220" openprice="0.1190"
+				closeprice="0.0000" highestprice="0.1240" lowestprice="0.1170"
+				bidprice1="0.1170" bidprice2="0.1150" bidprice3="0.1140" bidprice4="0.1130"
+				bidprice5="0.1110" bidvolume1="5" bidvolume2="47" bidvolume3="47"
+				bidvolume4="47" bidvolume5="94" askprice1="0.1220" askprice2="0.1230"
+				askprice3="0.1240" askprice4="0.1270" askprice5="" askvolume1="43"
+				askvolume2="47" askvolume3="47" askvolume4="5" askvolume5="0"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽9月1950"
+				callorput="P" targetcode="510180" strik="1.950" multiplierunit="10000"
+				status="0.0001" contractid="510180P1409M01950" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000136" marketid="sh" isstop="1" turnover="884900.00"
+				donevolume="631" preclose="0.1370" lastprice="0.1400" openprice="0.1450"
+				closeprice="0.0000" highestprice="0.1450" lowestprice="0.1370"
+				bidprice1="0.1390" bidprice2="0.1370" bidprice3="0.1360" bidprice4="0.1350"
+				bidprice5="0.1340" bidvolume1="45" bidvolume2="17" bidvolume3="36"
+				bidvolume4="36" bidvolume5="36" askprice1="0.1400" askprice2="0.1410"
+				askprice3="0.1440" askprice4="0.1450" askprice5="0.1460" askvolume1="27"
+				askvolume2="9" askvolume3="36" askvolume4="41" askvolume5="36"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽9月1650"
+				callorput="P" targetcode="510050" strik="1.650" multiplierunit="10000"
+				status="0.0001" contractid="510050P1409M01650" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000159" marketid="sh" isstop="1" turnover="34100.00"
+				donevolume="142" preclose="0.0270" lastprice="0.0220" openprice="0.0290"
+				closeprice="0.0000" highestprice="0.0290" lowestprice="0.0200"
+				bidprice1="0.0220" bidprice2="0.0210" bidprice3="0.0200" bidprice4="0.0190"
+				bidprice5="0.0180" bidvolume1="51" bidvolume2="47" bidvolume3="47"
+				bidvolume4="65" bidvolume5="45" askprice1="0.0230" askprice2="0.0240"
+				askprice3="0.0260" askprice4="0.0270" askprice5="0.0280" askvolume1="36"
+				askvolume2="5" askvolume3="5" askvolume4="52" askvolume5="52"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购4月1950"
+				callorput="C" targetcode="510180" strik="1.950" multiplierunit="10000"
+				status="0.0001" contractid="510180C1404M01950" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000199" marketid="sh" isstop="1" turnover="26080.00"
+				donevolume="63" preclose="0.0410" lastprice="0.0390" openprice="0.0420"
+				closeprice="0.0000" highestprice="0.0420" lowestprice="0.0390"
+				bidprice1="0.0360" bidprice2="0.0350" bidprice3="0.0340" bidprice4="0.0330"
+				bidprice5="0.0270" bidvolume1="52" bidvolume2="47" bidvolume3="52"
+				bidvolume4="5" bidvolume5="15" askprice1="0.0400" askprice2="0.0410"
+				askprice3="0.0420" askprice4="0.0460" askprice5="0.0520" askvolume1="52"
+				askvolume2="52" askvolume3="52" askvolume4="47" askvolume5="5"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购5月2000"
+				callorput="C" targetcode="510180" strik="2.000" multiplierunit="10000"
+				status="0.0001" contractid="510180C1405M02000" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000212" marketid="sh" isstop="1" turnover="229860.00"
+				donevolume="224" preclose="0.1000" lastprice="0.1040" openprice="0.1000"
+				closeprice="0.0000" highestprice="0.1080" lowestprice="0.1000"
+				bidprice1="0.1030" bidprice2="0.1020" bidprice3="0.0960" bidprice4="0.0950"
+				bidprice5="0.0940" bidvolume1="5" bidvolume2="5" bidvolume3="47"
+				bidvolume4="47" bidvolume5="47" askprice1="0.1040" askprice2="0.1050"
+				askprice3="0.1060" askprice4="0.1090" askprice5="0.1100" askvolume1="42"
+				askvolume2="47" askvolume3="47" askvolume4="5" askvolume5="5"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF沽4月2050"
+				callorput="P" targetcode="510180" strik="2.050" multiplierunit="10000"
+				status="0.0001" contractid="510180P1404M02050" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000213" marketid="sh" isstop="1" turnover="13650.00"
+				donevolume="52" preclose="0.0260" lastprice="0.0270" openprice="0.0280"
+				closeprice="0.0000" highestprice="0.0280" lowestprice="0.0250"
+				bidprice1="0.0250" bidprice2="0.0240" bidprice3="0.0230" bidprice4="0.0220"
+				bidprice5="0.0210" bidvolume1="74" bidvolume2="5" bidvolume3="52"
+				bidvolume4="52" bidvolume5="47" askprice1="0.0270" askprice2="0.0280"
+				askprice3="0.0290" askprice4="0.0300" askprice5="0.0360" askvolume1="4"
+				askvolume2="52" askvolume3="52" askvolume4="47" askvolume5="5"
+				presettleprice="" settleprice="" openinterest="" stkname="180ETF购5月2050"
+				callorput="C" targetcode="510180" strik="2.050" multiplierunit="10000"
+				status="0.0001" contractid="510180C1405M02050" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="88888888" marketid="sh" isstop="" turnover=""
+				donevolume="" preclose="" lastprice="" openprice="" closeprice=""
+				highestprice="" lowestprice="" bidprice1="" bidprice2="" bidprice3=""
+				bidprice4="" bidprice5="" bidvolume1="" bidvolume2="" bidvolume3=""
+				bidvolume4="" bidvolume5="" askprice1="" askprice2="" askprice3=""
+				askprice4="" askprice5="" askvolume1="" askvolume2="" askvolume3=""
+				askvolume4="" askvolume5="" presettleprice="" settleprice=""
+				openinterest=""
+				stkname="10000031,10000032,10000033,10000034,10000035,10000036,10000037,10000038,10000039,10000040,10000071,10000072,10000073,10000074,10000075,10000076,10000077,10000078,10000079,10000080,10000087,10000088,10000095,10000096,10000101,10000102,10000103,10000104,10000105,10000106,10000107,10000108,10000109,10000110,10000111,10000112,10000113,10000114,10000115,10000116,10000117,10000118,10000119,10000120,10000121,10000122,10000123,10000124,10000129,10000130,10000131,10000132,10000133,10000134,10000135,10000136,10000137,10000138,10000139,10000140,10000141,10000142,10000143,10000144,10000145,10000146,10000147,10000148,10000149,10000150,10000151,10000152,10000153,10000154,10000157,10000158,10000159,10000160,10000161,10000162,10000163,10000164,10000165,10000166,10000167,10000168,10000169,10000170,10000171,10000172,10000173,10000174,10000175,10000176,10000177,10000178,10000179,10000180,10000181,10000182,10000183,10000184,10000185,10000186,10000187,10000188,10000189,10000190,10000191,10000192,10000193,10000194,10000195,10000196,10000197,10000198,10000199,10000200,10000201,10000202,10000203,10000204,10000205,10000206,90000031,90000032,90000033,90000034,90000035,90000036,90000037,90000038,90000039,90000040,90000071,90000072,90000073,90000074,90000075,90000076,90000077,90000078,90000079,90000080,90000087,90000088,90000095,90000096,90000103,90000104,90000109,90000110,90000111,90000112,90000113,90000114,90000115,90000116,90000117,90000118,90000119,90000120,90000121,90000122,90000123,90000124,90000125,90000126,90000127,90000128,90000129,90000130,90000131,90000132,90000133,90000134,90000135,90000136,90000137,90000138,90000141,90000142,90000143,90000144,90000145,90000146,90000147,90000148,90000149,90000150,90000151,90000152,90000153,90000154,90000155,90000156,90000157,90000158,90000159,90000160,90000161,90000162,90000163,90000164,90000165,90000166,90000169,90000170,90000171,90000172,90000173,90000174,90000177,90000178,90000179,90000180,90000181,90000182,90000183,90000184,90000185,90000186,90000187,90000188,90000189,90000190,90000191,90000192,90000193,90000194,90000195,90000196,90000197,90000198,90000199,90000200,90000201,90000202,90000203,90000204,90000205,90000206,90000207,90000208,90000209,90000210,90000211,90000212,90000213,90000214,90000215,90000216,90000217,90000218"
+				callorput="" targetcode="" strik="" multiplierunit="" status=""
+				contractid="" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000207" marketid="sh" isstop="1" turnover="14340.00"
+				donevolume="187" preclose="0.0080" lastprice="0.0080" openprice="0.0050"
+				closeprice="0.0000" highestprice="0.0120" lowestprice="0.0050"
+				bidprice1="0.0070" bidprice2="0.0060" bidprice3="0.0050" bidprice4="0.0040"
+				bidprice5="0.0030" bidvolume1="88" bidvolume2="10" bidvolume3="15"
+				bidvolume4="15" bidvolume5="15" askprice1="0.0080" askprice2="0.0120"
+				askprice3="0.0130" askprice4="0.0140" askprice5="0.0150" askvolume1="9"
+				askvolume2="3" askvolume3="6" askvolume4="6" askvolume5="6"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购4月1650"
+				callorput="C" targetcode="510050" strik="1.650" multiplierunit="10000"
+				status="0.0001" contractid="510050C1404M01650" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000123" marketid="sh" isstop="1" turnover="1223340.00"
+				donevolume="1161" preclose="0.1080" lastprice="0.1020" openprice="0.1170"
+				closeprice="0.0000" highestprice="0.1170" lowestprice="0.1020"
+				bidprice1="0.1020" bidprice2="0.1010" bidprice3="0.1000" bidprice4="0.0990"
+				bidprice5="0.0980" bidvolume1="46" bidvolume2="54" bidvolume3="54"
+				bidvolume4="78" bidvolume5="60" askprice1="0.1100" askprice2="0.1110"
+				askprice3="0.1120" askprice4="0.1130" askprice5="0.1140" askvolume1="47"
+				askvolume2="54" askvolume3="54" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购9月1500"
+				callorput="C" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050C1409M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="H02039" iopvvalue="0.0000" marketid="sh"
+				stkname="中集集团" isstop="F" preclose="16.820" lastprice="16.920"
+				openprice="16.880" closeprice="16.920" highestprice="17.060"
+				lowestprice="16.820" donevolume="211500" turnover="3574738"
+				bidprice1="16.860" bidprice2="0.000" bidprice3="0.000" bidprice4="0.000"
+				bidprice5="0.000" askprice1="16.920" askprice2="0.000" askprice3="0.000"
+				askprice4="0.000" askprice5="0.000" bidvolume1="0" bidvolume2="0"
+				bidvolume3="0" bidvolume4="0" bidvolume5="0" askvolume1="0"
+				askvolume2="0" askvolume3="0" askvolume4="0" askvolume5="0"
+				settleprice="0.00" openinterest="0.00" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000123" marketid="sh" isstop="1" turnover="1226400.00"
+				donevolume="1164" preclose="0.1080" lastprice="0.1020" openprice="0.1170"
+				closeprice="0.0000" highestprice="0.1170" lowestprice="0.1020"
+				bidprice1="0.1020" bidprice2="0.1010" bidprice3="0.1000" bidprice4="0.0990"
+				bidprice5="0.0980" bidvolume1="43" bidvolume2="54" bidvolume3="54"
+				bidvolume4="78" bidvolume5="60" askprice1="0.1100" askprice2="0.1110"
+				askprice3="0.1120" askprice4="0.1130" askprice5="0.1140" askvolume1="47"
+				askvolume2="54" askvolume3="54" askvolume4="54" askvolume5="54"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF购9月1500"
+				callorput="C" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050C1409M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000037" marketid="sh" isstop="1" turnover="2150290.00"
+				donevolume="4339" preclose="0.0580" lastprice="0.0530" openprice="0.0540"
+				closeprice="0.0000" highestprice="0.0670" lowestprice="0.0010"
+				bidprice1="0.0530" bidprice2="0.0510" bidprice3="0.0010" bidprice4=""
+				bidprice5="" bidvolume1="3" bidvolume2="3" bidvolume3="12"
+				bidvolume4="0" bidvolume5="0" askprice1="0.0550" askprice2="0.0570"
+				askprice3="0.0670" askprice4="0.0680" askprice5="0.0690" askvolume1="1"
+				askvolume2="5" askvolume3="72" askvolume4="105" askvolume5="105"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1500"
+				callorput="P" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01500" />
+		</body>
+	</Quot>
+	<Quot>
+		<head type="hq" recordnum="1" />
+		<body>
+			<record stkcode="90000037" marketid="sh" isstop="1" turnover="2151880.00"
+				donevolume="4342" preclose="0.0580" lastprice="0.0530" openprice="0.0540"
+				closeprice="0.0000" highestprice="0.0670" lowestprice="0.0010"
+				bidprice1="0.0490" bidprice2="0.0010" bidprice3="" bidprice4=""
+				bidprice5="" bidvolume1="5" bidvolume2="12" bidvolume3="0"
+				bidvolume4="0" bidvolume5="0" askprice1="0.0530" askprice2="0.0570"
+				askprice3="0.0670" askprice4="0.0680" askprice5="0.0690" askvolume1="2"
+				askvolume2="5" askvolume3="72" askvolume4="105" askvolume5="105"
+				presettleprice="" settleprice="" openinterest="" stkname="50ETF沽6月1500"
+				callorput="P" targetcode="510050" strik="1.500" multiplierunit="10000"
+				status="0.0001" contractid="510050P1406M01500" />
+		</body>
+	</Quot>
+</Data>
